@@ -1,10 +1,10 @@
 {
-	"autoload": {
-        "psr-4": {
-            "MyApp\\": "src"
-        }
-    },
-	"require": {
-        "cboden/ratchet": "^0.4.1"
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src/MyApp/"
     }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4.1"
+  }
 }

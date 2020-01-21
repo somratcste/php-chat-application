@@ -119,7 +119,7 @@ class ComposerStaticInite1015803d8c00a4689e706e6de43e6b4
         ),
         'MyApp\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/src/MyApp',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (
